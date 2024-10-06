@@ -3,7 +3,7 @@ import java.util.Scanner;
 class PrimeNo{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter any poisitive number");
+        System.out.println("Enter any positive number");//Positive Number
         int num = scanner.nextInt();
         int i;
 
